@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "237a77db_135c5235",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020543
+      },
+      "writtenOn": "2022-09-23T17:19:11Z",
+      "side": 1,
+      "message": "LGTM!",
+      "revId": "7e9056c87e832de944e6aec5e95e45f64f74f48d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f9f39fd9_3471796f",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1020543
+      },
+      "writtenOn": "2022-09-23T17:19:11Z",
+      "side": 1,
+      "message": "good",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 25
+      },
+      "revId": "7e9056c87e832de944e6aec5e95e45f64f74f48d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
